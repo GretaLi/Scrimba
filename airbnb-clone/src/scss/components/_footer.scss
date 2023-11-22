@@ -1,0 +1,10 @@
+@use "../util" as u;
+
+.footer {
+  text-align: center;
+  font-size: u.rem(14);
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}

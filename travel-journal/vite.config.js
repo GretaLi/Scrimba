@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: "/Scrimba/travel-journal/",
   build: {
-    outDir: "dist",
+    outDir: "dist/travel-journal",
   },
 });

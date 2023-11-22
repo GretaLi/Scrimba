@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: "/scrimba/trevel-journal/",
   build: {
-    outDir: "dist",
+    outDir: "dist/trevel-journal",
   },
 });

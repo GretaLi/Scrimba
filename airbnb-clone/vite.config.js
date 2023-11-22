@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: "/scrimba/airbnb-clone/",
   build: {
-    outDir: "dist",
+    outDir: "dist/airbnb-clone",
   },
 });

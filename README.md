@@ -2,13 +2,20 @@
 
 Scrimba Frontend Career Path Challenges
 
+## Static Website
+
 [Travel Journal - Live Site](https://gretali.github.io/scrimba/travel-journal/)
 
 [Airbnb Clone - Live Site](https://gretali.github.io/scrimba/airbnb-clone/)
 
+## Dynamic Web App
+
 ## Build with
 
 - React.js
+  - Props
+  - Mapping data
+  - Reusable components
 - SCSS
 - Vite
 
